@@ -9,8 +9,6 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/30474126/137649530-e8e9de56-8715-45ff-bef2-2f41960fded8.png" /></p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/30474126/137649554-f8891d91-e393-44f2-9b19-aed83c45fda8.png" /></p>
-
 ### Resumo dos comandos:   
     docker container start [CONTAINER ID]    
     docker container stop [CONTAINER ID]    
