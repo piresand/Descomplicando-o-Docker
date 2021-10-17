@@ -17,4 +17,4 @@ Docker Swarm
 Docker Secrets      
 Docker Compose     
 
-Fonte: (livro descomplicando docker)[https://livro.descomplicandodocker.com.br]
+Fonte: (livro descomplicando docker[https://livro.descomplicandodocker.com.br])
