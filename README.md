@@ -1,5 +1,7 @@
 ## Descomplicando o Docker
 
+<p align="center"><img src="https://user-images.githubusercontent.com/30474126/137643265-d60b30a5-2551-4900-8298-a703dc52ef85.png" /></p>
+
 ### CAPÍTULOS     
 
 #### 1. [O que é container](https://livro.descomplicandodocker.com.br/chapters/chapter_01.html)     
@@ -18,4 +20,5 @@
 #### 14. [Docker Secrets](https://livro.descomplicandodocker.com.br/chapters/chapter_14.html)     
 #### 15. [Docker Compose](https://livro.descomplicandodocker.com.br/chapters/chapter_15.html)
 
-Fonte: [Livro Descomplicando Docker](https://livro.descomplicandodocker.com.br)
+
+#### Fonte: [Livro Descomplicando Docker](https://livro.descomplicandodocker.com.br)  
