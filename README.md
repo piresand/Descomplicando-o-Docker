@@ -1,11 +1,11 @@
-### Descomplicando o Docker
+#### Descomplicando o Docker
 
-CAPÍTULOS     
+### CAPÍTULOS     
 
 ## 1. [O que é container](https://livro.descomplicandodocker.com.br/chapters/chapter_01.html)     
-### 2. [O que é o Docker](https://livro.descomplicandodocker.com.br/chapters/chapter_02.html)    
-### 3. [Instalando o Docker](https://livro.descomplicandodocker.com.br/chapters/chapter_03.html)    
-### 4. [Executando e administrando containers Docker](https://livro.descomplicandodocker.com.br/chapters/chapter_04.html)  
+## 2. [O que é o Docker](https://livro.descomplicandodocker.com.br/chapters/chapter_02.html)    
+## 3. [Instalando o Docker](https://livro.descomplicandodocker.com.br/chapters/chapter_03.html)    
+## 4. [Executando e administrando containers Docker](https://livro.descomplicandodocker.com.br/chapters/chapter_04.html)  
 ### 5. [Configurando CPU e memória para os meus containers](https://livro.descomplicandodocker.com.br/chapters/chapter_05.html)
 ### 6. [Primeiro e tosco dockerfile](https://livro.descomplicandodocker.com.br/chapters/chapter_06.html)
 ### 7. [Entendendo volumes](https://livro.descomplicandodocker.com.br/chapters/chapter_07.html)   
