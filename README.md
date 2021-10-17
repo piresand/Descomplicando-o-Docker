@@ -1,4 +1,4 @@
-## Descomplicando o Docker
+# Descomplicando o Docker
 
 <p align="center"><img src="https://user-images.githubusercontent.com/30474126/137643265-d60b30a5-2551-4900-8298-a703dc52ef85.png" /></p>
 
