@@ -14,6 +14,6 @@ Comando baixa o script e direciona para a execução do bash
 
 Ver containers (comando versão antiga)   
         docker ps
-## Ver containers em execução (comando CLI novo)       
-        Ver containers em execução (comando CLI novo)
-        
+## Ver containers em execução (comando CLI novo)     
+        docker container ls (em execução)
+        docker container ls -a (em execução e parado)
