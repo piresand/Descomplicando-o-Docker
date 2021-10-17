@@ -1,8 +1,17 @@
 ## Docker Container Expert  
 
-## Instalando o Docker   
+## Instalando Máquina Linux    
 
-Comando baixa o script e direciona para a execução do bash   
+[Baixe maquina Ubuntu Linux](https://releases.ubuntu.com/20.04.3/ubuntu-20.04.3-desktop-amd64.iso)   
+
+        user: servidor   
+        password: Senha@123  
+ 
+[Documentação offical](docs.docker.com/install)   
+ 
+## Instalando o Docker    
+
+Comando baixa o script e direciona para a execução do bash     
 
         apt-get update   
         apt-get install curl   
