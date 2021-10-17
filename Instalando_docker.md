@@ -1,6 +1,6 @@
 ## Docker Container Expert  
 
-## Instalando o Docker  
+## Instalando o Docker   
 
 Comando baixa o script e direciona para a execução do bash   
 
@@ -13,8 +13,8 @@ Comando baixa o script e direciona para a execução do bash
 ## Executando e administrando containers Docker   
 
 Ver containers (comando versão antiga)   
-        docker ps   
-        
+       docker ps   
+
 ## Ver containers em execução (comando CLI novo)     
         docker container ls (em execução)
         docker container ls -a (em execução e parado)
