@@ -59,5 +59,6 @@ Vamos então conectar no container de processo do nginx via shell (docker contai
 
 ### Comando para pausar decontacoterminado container    
 
-        docker container pause [Container_ID]    
+        docker container pause [Container_ID]   
         docker container unpause [Container_ID]    
+
