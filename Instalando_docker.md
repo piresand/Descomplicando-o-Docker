@@ -62,3 +62,28 @@ Vamos então conectar no container de processo do nginx via shell (docker contai
         docker container pause [Container_ID]   
         docker container unpause [Container_ID]    
 
+### Start, Stop, Restart, pause e unpause no container nginx   
+
+        docker container start nginx   
+        docker container stop nginx   
+        docker container restart nginx   
+        docker container pause nginx   
+        docker container unpause nginx     
+
+### Fazer inspeção no container (visualizar detalhes)   
+        
+        docker container inspect nginx    
+
+### Verificar os logs do container, com o docker container attach nginx (processo) automaticamente ja vejo os logs do processo  
+
+        docker container logs -f nginx    
+
+### Remover um container, somente container em stop   
+
+        docker container rm nginx  
+
+### Forçar Remoção de um container  
+
+       docker container rm -f nginx   
+
+       
