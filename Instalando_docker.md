@@ -86,4 +86,16 @@ Vamos então conectar no container de processo do nginx via shell (docker contai
 
        docker container rm -f nginx   
 
-       
+### Resumo dos comandos:   
+    docker container start [CONTAINER ID]    
+    docker container stop [CONTAINER ID]    
+    docker container restart [CONTAINER ID]    
+    docker container pause [CONTAINER ID]    
+    docker container unpause [CONTAINER ID]    
+    docker container inspect [CONTAINER ID]   
+    docker container logs -f [CONTAINER ID]   
+    docker container rm [CONTAINER ID]
+    docker container attach [CONTAINER ID]   
+    docker container rm -f [CONTAINER ID]    
+    docker container exec -ti [CONTAINER ID] [COMANDO]      
+    docker container run -d nginx    
