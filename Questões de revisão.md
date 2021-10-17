@@ -8,17 +8,3 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/30474126/137649517-6f8436c4-6609-441e-929f-ec88b9eddc2d.png" /></p>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/30474126/137649530-e8e9de56-8715-45ff-bef2-2f41960fded8.png" /></p>
-
-### Resumo dos comandos:   
-    docker container start [CONTAINER ID]    
-    docker container stop [CONTAINER ID]    
-    docker container restart [CONTAINER ID]    
-    docker container pause [CONTAINER ID]    
-    docker container unpause [CONTAINER ID]    
-    docker container inspect [CONTAINER ID]   
-    docker container logs -f [CONTAINER ID]   
-    docker container rm [CONTAINER ID]
-    docker container attach [CONTAINER ID]   
-    docker container rm -f [CONTAINER ID]    
-    docker container exec -ti [CONTAINER ID] [COMANDO]      
-    docker container run -d nginx    
