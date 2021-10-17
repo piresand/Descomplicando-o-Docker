@@ -49,10 +49,15 @@ Ver containers (comando versão antiga)
 
         docker container attach "id_do_container"   
 
-Ctrl+c - finaliza o processo    
+### Ctrl+c - finaliza o processo    
 Vamos então conectar no container de processo do nginx via shell (docker container exec -ti "id_do_container" comando)     
 
         docker container exec -ti nginx bash
         apt-get update
         curl localhost
         ctrl+D (porém o processo não vai morrer, pois o principal é o nginx e não o bash)   
+
+### Comando para pausar decontacoterminado container    
+
+        docker container pause [Container_ID]    
+        docker container unpause [Container_ID]    
