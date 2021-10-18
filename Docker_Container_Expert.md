@@ -144,7 +144,7 @@ Vamos então conectar no container de processo do nginx via shell (docker contai
         docker container stats [CONTAINER ID]    
         docker container top [CONTAINER ID]    
 
-Comando executados dentro do container:
+### Comando executados dentro do container:
 
         apt-get update    
         apt-get install stress    
