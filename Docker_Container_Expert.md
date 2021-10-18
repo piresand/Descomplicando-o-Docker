@@ -149,3 +149,4 @@ Vamos então conectar no container de processo do nginx via shell (docker contai
         apt-get update    
         apt-get install stress    
         stress --cpu 1 --vm-bytes 128M --vm1    
+
