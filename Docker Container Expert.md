@@ -7,7 +7,7 @@
         user: servidor   
         password: Senha@123  
  
-[Documentação offical](docs.docker.com/install)   
+[Documentação offical](https://docs.docker.com/get-docker/)   
  
 ## Instalando o Docker    
 
