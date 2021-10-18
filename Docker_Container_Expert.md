@@ -99,3 +99,39 @@ Vamos então conectar no container de processo do nginx via shell (docker contai
     docker container rm -f [CONTAINER ID]    
     docker container exec -ti [CONTAINER ID] [COMANDO]      
     docker container run -d nginx    
+
+### Verificar o uso de recursos CPU, Memória, IO Rede e Disco (Blocks) no docker 
+
+## Configurando CPU e memória para os meus containers  
+
+        docker container stats nginx    
+
+### Usar aplicativo para testar carga do containeir   
+
+        apt-get install stress
+        stress --help
+        stress --vm 1 --cpu 1 --vm-bytes 64Mdock
+
+### Verificar os processos em execução nos container   
+
+        docker container top nginx   
+
+### Criando container com definição de memória    
+
+        docker container run -d -m 128M nginx    
+
+### Usando uma calculadora em modo texto  
+
+        bc   
+
+### Criando container com definição de memória e cpu (0.5 = 50% de uma CPU)   
+
+        docker container run -d -m 128M --cpus 0.5 nginx    
+        cat /proc/cpuinfo    
+
+### Configurar cpus do container   
+
+        docker container update --cpus 0.2 nginx  
+        docker container update --cpus 0.2 --memory 65M nginx   
+
+        
