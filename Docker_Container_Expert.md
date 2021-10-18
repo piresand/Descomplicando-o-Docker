@@ -134,4 +134,18 @@ Vamos então conectar no container de processo do nginx via shell (docker contai
         docker container update --cpus 0.2 nginx  
         docker container update --cpus 0.2 --memory 65M nginx   
 
-        
+### Resumo dos comandos:   
+
+        docker container stats [CONTAINER ID]      
+        docker container top [CONTAINER ID]    
+        docker container run -d -m 128M --cpus 0.5 nginx     
+        docker container update --memory 64M --cpus 0.4 nginx     
+        docker container inspect[CONTAINER ID]     
+        docker container stats [CONTAINER ID]    
+        docker container top [CONTAINER ID]    
+
+Comando executados dentro do container:
+
+        apt-get update    
+        apt-get install stress    
+        stress --cpu 1 --vm-bytes 128M --vm1    
