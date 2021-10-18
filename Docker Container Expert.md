@@ -102,7 +102,7 @@ Vamos então conectar no container de processo do nginx via shell (docker contai
 
 ### Verificar o uso de recursos CPU, Memória, IO Rede e Disco (Blocks) no docker 
 
-## Configurando CPU e memória para os meus containers  
+### Configurando CPU e memória para os meus containers  
 
         docker container stats nginx    
 
