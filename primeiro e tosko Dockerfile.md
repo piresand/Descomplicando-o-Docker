@@ -2,4 +2,16 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/30474126/137650184-639badec-bd72-4929-8dd2-80573389bb6d.png" /></p>
 
+    docker image build -t toskeira:1.0     
+    docker image ls      
+    docker container run -d toskeira:1.0      
+    docker container logs -f [CONTAINER ID]      
 
+No Dockerfile:    
+ 
+    FROM debian     
+    LABEL app="Giropops"    
+    ENV ANDRE="LINDO"    
+    RUN apt-get update && apt-get install -y stress && apt-get clean     
+
+    CMD stress --cpu 1 --vm-bytes 64M --vm1    
