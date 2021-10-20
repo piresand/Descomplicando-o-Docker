@@ -1,8 +1,8 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/30474126/137643265-d60b30a5-2551-4900-8298-a703dc52ef85.png" /></p>
 
-# Aulas Descomplicando o Docker
+# Descomplicando o Docker
 
-Esse repositório tem por objetivo compartilhar material do curso Descomplicando o Docker. 
+Esse repositório tem por objetivo compartilhar material das aulas Descomplicando o Docker. 
 
 ### Índicie das Aulas
 
@@ -10,7 +10,7 @@ Esse repositório tem por objetivo compartilhar material do curso Descomplicando
 [Dia 01 - Administrando containers Docker](https://github.com/piresand/Descomplicando_o_Docker/blob/main/Day%2001%20-%20Administrando%20containers%20Docker.md)    
 [Dia 02 - Volumes](https://github.com/piresand/Descomplicando_o_Docker/blob/main/Day%2002%20-%20Volumes.md)    
 
-### Livro Descomplicando o Docker
+## Livro Descomplicando o Docker
 
 ### Capitulos   
 
