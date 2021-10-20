@@ -7,7 +7,7 @@ GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle 
 ### Para que serve o Github?
 
 O GitHub serve caso você queira compartilhar seu código ou colocá-lo na nuvem. 
-Nunca se esqueça: Git e GitHub são coisas diferentes.
+E nunca se esqueça: Git e GitHub são coisas diferentes.
 
 O GitHub possui todas as funcionalidades do Git, e conta com várias outras funcionalidades extras, listadas a seguir:
 
