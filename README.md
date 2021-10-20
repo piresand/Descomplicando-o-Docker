@@ -1,14 +1,14 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/30474126/137643265-d60b30a5-2551-4900-8298-a703dc52ef85.png" /></p>
 
-# Curso Descomplicando o Docker
+# Aulas Descomplicando o Docker
 
 Esse repositório tem por objetivo compartilhar material do curso Descomplicando o Docker. 
 
 ### Índicie das Aulas
 
-[Download e instalação da Máquina virtual e Docker](https://github.com/piresand/Descomplicando_o_Docker/blob/main/Download%20e%20instala%C3%A7%C3%A3o%20da%20M%C3%A1quina%20virtual%20e%20Docker.md)
-[Dia 01 - Administrando containers Docker](https://github.com/piresand/Descomplicando_o_Docker/blob/main/Day%2001%20-%20Administrando%20containers%20Docker.md)
-[Dia 02 - Volumes](https://github.com/piresand/Descomplicando_o_Docker/blob/main/Day%2002%20-%20Volumes.md)
+[Download e instalação da Máquina virtual e Docker](https://github.com/piresand/Descomplicando_o_Docker/blob/main/Download%20e%20instala%C3%A7%C3%A3o%20da%20M%C3%A1quina%20virtual%20e%20Docker.md)    
+[Dia 01 - Administrando containers Docker](https://github.com/piresand/Descomplicando_o_Docker/blob/main/Day%2001%20-%20Administrando%20containers%20Docker.md)    
+[Dia 02 - Volumes](https://github.com/piresand/Descomplicando_o_Docker/blob/main/Day%2002%20-%20Volumes.md)    
 
 ### Livro Descomplicando o Docker
 
