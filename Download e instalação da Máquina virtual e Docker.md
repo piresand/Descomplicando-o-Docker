@@ -4,6 +4,7 @@
         password: ubuntu  
         
 [Baixe máquina Ubuntu Linux - OVF](https://dlhzub60.linuxvmimages.com/VirtualBox/U/18.04/Ubuntu_18.04.5_VB.zip)   
+[Ubuntu Linux - ISO](https://releases.ubuntu.com/20.04.3/ubuntu-20.04.3-desktop-amd64.iso)
 
 ## Instalando o Docker    
 
