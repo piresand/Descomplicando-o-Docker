@@ -1,4 +1,4 @@
-<p align="center"><img src="![image](https://user-images.githubusercontent.com/30474126/138007549-63c5656a-63c9-4df2-97b9-f20bbdf7cad7.png)" /></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/30474126/138007549-63c5656a-63c9-4df2-97b9-f20bbdf7cad7.png" /></p>
 
 # Descomplicando o Docker
 
