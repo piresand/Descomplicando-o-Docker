@@ -28,4 +28,4 @@ Fonte: [Blog Geekhunter](https://blog.geekhunter.com.br/github-o-que-e-como-usar
 
 <p align="center"><img src="https://user-images.githubusercontent.com/30474126/138008249-8082be18-d7bb-4f06-9804-3cdd8b26ac8f.png" /></p>
 
-<p align="right">< "[Retorne ao Índicie das Aulas](https://github.com/piresand/Descomplicando_o_Docker)" /></p>
+<p align="right"><= "[Retorne ao Índicie das Aulas](https://github.com/piresand/Descomplicando_o_Docker)" /></p>
