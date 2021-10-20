@@ -9,6 +9,7 @@ Esse repositório tem por objetivo compartilhar material das aulas Descomplicand
 [Download e instalação da Máquina virtual e Docker](https://github.com/piresand/Descomplicando_o_Docker/blob/main/Download%20e%20instala%C3%A7%C3%A3o%20da%20M%C3%A1quina%20virtual%20e%20Docker.md)    
 [Dia 01 - Administrando containers Docker](https://github.com/piresand/Descomplicando_o_Docker/blob/main/Day%2001%20-%20Administrando%20containers%20Docker.md)    
 [Dia 02 - Volumes](https://github.com/piresand/Descomplicando_o_Docker/blob/main/Day%2002%20-%20Volumes.md)    
+[Revisão de Questões](https://github.com/piresand/Descomplicando_o_Docker/blob/main/Revis%C3%A3o%20de%20Quest%C3%B5es.md)   
 
 ## Livro Descomplicando o Docker
 
