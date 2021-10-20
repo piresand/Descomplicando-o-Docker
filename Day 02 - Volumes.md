@@ -2,12 +2,12 @@
 
 ### Volumes - Tipo Bind (montando pasta como volume no container)   
 
+ <p align="center"><img src="https://user-images.githubusercontent.com/30474126/138013502-04cc94ff-76e8-4f0a-ab98-f25efa984638.png" /></p>
+
     mkdir /opt/giropops     
     docker container run -ti --mount type=bind,src=/opt/giropops,dst=/giropops debian    
     docker container run -ti --mount type=bind,src=/opt/giropops,dst=/giropops,ro debian //somente leitura    
     
- <p align="center"><img src="https://user-images.githubusercontent.com/30474126/138013502-04cc94ff-76e8-4f0a-ab98-f25efa984638.png" /></p>
-
 ### Volumes - Tipo Volume   
     docker volume ls
     docker create giropops
