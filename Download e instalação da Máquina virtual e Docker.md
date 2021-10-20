@@ -16,4 +16,4 @@ Comando baixa o script e direciona para a execução do bash
         docker version   
         docker container ls     
 
-[Documentação ofical Docker](https://docs.docker.com/get-docker/)   
+[Documentação ofical Docker](https://docs.docker.com/engine/install/ubuntu/)   
