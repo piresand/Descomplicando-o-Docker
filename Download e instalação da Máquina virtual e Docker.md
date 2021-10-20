@@ -4,6 +4,7 @@
         password: Senha@123  
         
 [Baixe máquina Ubuntu Linux](https://releases.ubuntu.com/20.04.3/ubuntu-20.04.3-desktop-amd64.iso)   
+[Tutorial de instalação da Máquina Ubuntu](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview)
  
 ## Instalando o Docker    
 
