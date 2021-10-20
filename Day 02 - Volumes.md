@@ -9,11 +9,14 @@
 ### Volumes - Tipo Volume   
     docker volume ls
     docker create giropops
-    docker inspect giropops
+    docker inspect giropops 
+    
     //Olhar o Mointpoint no resultado do inspect
         cd /var/lib/docker/volumes/giropops/_data/
+        
     //Pasta com o volume criado, criar arquivo GIROPOPS e STRIGUS com touch
-        ---- Adicionando o volume ao Container -----
+    
+        -------------------Adicionando o volume ao Container-------------------
         docker container run -ti --mount type=volume,src=giropops,dst=/giropops debian
     // usando o volume giropos no destino /giropops com a imagem debian
   
@@ -22,7 +25,7 @@
     docker container prune // remove todos os container que estiver parado
     docker image prune // remove as imagens que estão quebradas (dump)
 
-    -------------------------------Criando Volume Data-Only-------------------
+    -------------------Criando Volume Data-Only-------------------
     //docker container create -v /opt/giropops/:/data --name dbdados centos // sintaxe antiga
     docker container create -v /data --name dbdados centos // Evitar problemas de direito no container postgresql
     
