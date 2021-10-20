@@ -1,4 +1,4 @@
-## Instalando Máquina Linux    
+## Máquina Linux    
 
         user: servidor   
         password: Senha@123  
