@@ -3,9 +3,8 @@
         user: ubuntu  
         password: ubuntu  
         
-[Baixe máquina Ubuntu Linux](https://dlhzub60.linuxvmimages.com/VirtualBox/U/18.04/Ubuntu_18.04.5_VB.zip)   
-[Tutorial de instalação da Máquina Ubuntu](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview)
- 
+[Baixe máquina Ubuntu Linux - OVF](https://dlhzub60.linuxvmimages.com/VirtualBox/U/18.04/Ubuntu_18.04.5_VB.zip)   
+
 ## Instalando o Docker    
 
 Comando baixa o script e direciona para a execução do bash     
