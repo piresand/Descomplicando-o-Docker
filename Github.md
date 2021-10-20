@@ -20,8 +20,8 @@ O GitHub possui todas as funcionalidades do Git, e conta com várias outras func
 - Arquivos do Photoshop podem ser vistos e comparados com versões anteriores;
 - GitHub Pages: pequenos websites podem ser feitos.
 
-Conteúdo Extra:
-[Saiba mais sobre o Git](https://www.atlassian.com/br/git/tutorials/what-is-git)
-[O que é Git e GitHub?](https://www.youtube.com/watch?v=GDGMf2bnHlE)
-[Github é e como usar?](https://blog.geekhunter.com.br/github-o-que-e-como-usar/)
-Fonte: [Blog Geekhunter](https://blog.geekhunter.com.br/github-o-que-e-como-usar/)
+Conteúdo Extra:   
+[Saiba mais sobre o Git](https://www.atlassian.com/br/git/tutorials/what-is-git)    
+[O que é Git e GitHub?](https://www.youtube.com/watch?v=GDGMf2bnHlE)     
+[Github é e como usar?](https://blog.geekhunter.com.br/github-o-que-e-como-usar/)   
+Fonte: [Blog Geekhunter](https://blog.geekhunter.com.br/github-o-que-e-como-usar/)     
