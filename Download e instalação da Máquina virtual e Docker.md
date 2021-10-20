@@ -14,3 +14,5 @@ Comando baixa o script e direciona para a execução do bash
         curl -fsSL https://get.docker.com | bash   
         docker version   
         docker container ls     
+  
+[Documentação offical Docker](https://docs.docker.com/get-docker/)   
