@@ -2,8 +2,7 @@
 
 # Descomplicando o Docker
 
-Esse repositório tem por objetivo compartilhar material das aulas Descomplicando o Docker. 
-:mortar_board: | Faculdade de Tecnologia SENAI Mato Grosso
+:mortar_board: | Faculdade de Tecnologia SENAI Mato Grosso | Esse repositório tem por objetivo compartilhar material das aulas Descomplicando o Docker. 
 
 ### Índicie das Aulas
 
